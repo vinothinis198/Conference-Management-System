@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Conference Registration</title>
+</head>
+<body>
+<h2>Conference Registration</h2>
+<form>
+Name:
+<input type="text" name="name"><br><br>
+Email:
+<input type="email" name="email"><br><br>
+Password:
+<input type="password" name="password"><br><br>
+<input type="submit" value="Register">
+</form>
+</body>
+</html>
